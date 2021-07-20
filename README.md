@@ -12,7 +12,6 @@ Be sure to note that you only `git pull` after you have received a Slack instruc
 Here's the order:
 
 - Raylin 
-- Derek 
 - Soohyun 
 - Eric 
 - Mitch 
