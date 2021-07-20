@@ -27,6 +27,7 @@ Here's the order:
 - Angie 
 - Jesse 
 - Lorela
+- Danielle
 
 Each student will: 
 
