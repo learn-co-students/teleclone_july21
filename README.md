@@ -5,7 +5,7 @@ Step 1: Accept the invitation in your email. That will allow you to push changes
 Step 2: Everyone clone the repo to your local computer. Put it where you store your phase 1 material
  - `git clone https://github.com/learn-co-students/teleclone_july21/'
 
-No further actiona necessary until stand down, but read the instructions over so that I can help answer any questions about the process.  
+No further action is necessary until after stand down, but read the instructions over so that I can help answer any questions about the process.  
 
 Be sure to note that you only `git pull` after you have received a Slack instructing you to do so.
 
