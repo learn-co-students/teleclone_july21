@@ -11,7 +11,7 @@ Be sure to note that you only `git pull` after you have received a Slack instruc
 
 Here's the order:
 
-- Raylin 
+
 - Soohyun 
 - Eric 
 - Mitch 
@@ -28,6 +28,7 @@ Here's the order:
 - Jesse 
 - Lorela
 - Danielle
+- Raylin 
 
 Each student will: 
 
